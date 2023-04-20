@@ -1,0 +1,413 @@
+input - I'm looking for a local place to dine in the centre that serves chinese food.
+input - My husband and I are celebrating our anniversary and want to find a great place to stay in town.
+input - I'm looking for an expensive restaurant in the centre.
+input - Are there any accommodations in the east part of town that off free parking?
+input - I'm looking for a nice place to stay, somewhere expensive and luxurious with all the amenities like free wifi. Can you recommend something like that?
+input - I'm looking for a 4 star hotel in the south.
+input - Are there any restaurants that serve christmas food around?
+input - I'd like to find a place to dine in the north please.
+input - I'm looking for a moderately priced Spanish restaurant.
+input - I am looking for a particular restaurant called city stop restaurant.
+input - I need a cheap place to dine at in the north.
+input - I'm looking for an expensive restaurant in the center of the town.
+input - I would like to try some chinese food while I am visiting cambridge.
+input - I am looking to get some information on gonville hotel.
+input - Could you tell me where Cotto is located?
+input - I am on a budget and need a cheap place to eat.
+input - Hi there. I'm trying to find a place to eat tonight. I'd like it to be more high end and expensive, and serve gastropub food. Can you help me?
+input - What can you tell me about the Riverside Brasserie?
+input - Yes, hello. I need a place to crash so I'm thinking a 0-star guesthouse
+input - Do you have information on La Raza?
+input - I'm looking for a cheap hotel in the east.
+input - I'm looking for a expensive restaurant that serves north american food.
+input - I am throwing a party with friends with a theme from the move "IT", can I details on the restaurant with the name clowns cafe? It may add a nice touch.
+input - I need some information on the A and B Guest House.
+input - Hi. Is there a hotel named Home from Home? I think I have heard of that.
+input - Hi, I am looking for a guesthouse with free parking. Can you help me?
+input - Can you help me find a good thai restaurant in the west?
+input - I need to find a barbeque restaurant in the centre of town.
+input - Can you find me a guesthouse with free parking?
+input - We are in cambridge for a visit and looking for an expensive place to dine in the centre. Are there any expensive Italian restaurants in the centre?
+input - Hi, can you find the hotel Kirkwood House?
+input - I am looking for a gastropub.
+input - Hi. I'm looking for a restaurant. I think it's called the Rice Ship or Rice Boat or something like that.
+input - I need to book a hotel in the east that has 4 stars.
+input - Can you help me find an expensive restaurant in the west?
+input - Hi, I'm looking for an expensive restaurant.
+input - Hi I'm looking for lodging in Cambridge that includes free wifi and is upscale and expensive
+input - Please find a place to eat that serves South Indian food in the center.
+input - I'm looking to book at a hotel call lovell lodge.
+input - Hi there. I'm trying to impress my girlfriend and was wondering if there might be a really nice british restaurant in town?
+input - Hello. I'm looking for a hotel on the north end of town with a 4 star rating.
+input - I'm looking to get some information on the worth house hotel.
+input - Is there any good Jamaican food in Cambridge?
+input - I need a place to stay that's located in the east and that is of cheap price range.
+input - Are there good hotels?
+input - I would like for you to find a place to stay that has both free wifi and free parking.
+input - I'm looking for a place to stay that includes free parking and free wifi.
+input - Hello, I am trying to find a place to stay that has free wifi and 3 stars. Do you have anything like that?
+input - Hi, I am looking for a cheap place to stay in the east. Can you help me?
+input - Can you help me fine a local restaurant? I am looking for a moderately priced place to dine that is located somewhere near the centre.
+input - Are there any restaurants that serve New Zealand food?
+input - Can you help me find a restaurant the has Indian cuisine?
+input - I am looking for the Home from Home hotel, I would also like to know how many stars this hotel has.
+input - I'm visiting Cambridge and would like some suggestions for an upscale restaurant which serves modern global cuisine.
+input - I am looking for an expensive restaurant in the centre part of town.
+input - I'm looking for a guesthouse to stay in with free wifi.
+input - I'm looking for a hotel. I want it to have free wifi, but parking doesn't need to be free.
+input - I'd like to find high-end restaurant in the center of Cambridge.
+input - I'm trying to find a restaurant to try while I'm in town. Can you help with that?
+input - I am looking for a particular restaurant. It's Efes Restaurant.
+input - Hi, I'm looking for a guesthouse to stay in that includes free parking. Can you find me something like that?
+input - I'm looking for a place to stay. I would like for it to be a 4 star guesthouse.
+input - i am looking for a place to stay. The hotel should be in the type of guesthouse and should have a star of 4.
+input - I am looking for a hotel called Autumn House.
+input - Aloha! Can you help me find a hotel, please?
+input - I'm looking for an expensive gastropub place.
+input - I would like to find a restaurant in the centre.
+input - Hi, I'd like to find a moderately priced steakhouse.
+input - I would like to find a restaurant in the expensive range that serves British food. It should be in the west location.
+input - My sister recommended the Meghna restaurant. What can you tell me about it?
+input - I'm coming to town for an overdue visit with my relatives. Can you help me find a place to stay?
+input - Are there any luxurious and expensive places to stay in the south section of town?
+input - I'm looking for a hotel with free parking and free wifi.
+input - I'm looking for expensive restaurants in the east.
+input - i am looking for a place to stay. The hotel should be in the moderate price range and should include free wifi.
+input - Can you find a a restaurant by the name of pizza express Fen Ditton for me?
+input - Hello I am looking for a place to dine in the centre of town that needs to be cheaply priced
+input - I need a place to stay! Can you help?
+input - I'm looking for a restaurant called maharajah tandoori.
+input - I'm looking for a cheap spanish restaurant.
+input - Please help me find somewhere to stay.
+input - Hello, I am looking for information about a restaurant called rice boat.
+input - I'm looking for a cheap place to dine. I want it to be on the west side of town.
+input - Hello, can you help me find an International place to dine?
+input - I'm looking for an Indian restaurant in the expensive range. Do you have anything available? Thanks
+input - hello can i find a place that serves chinese food and has expensive price range for my family
+input - I am looking for a place to dine. The restaurant should serve mediterranean food and should be in the south
+input - I am looking for a place to stay in Cambridge. I am wanting it to have free parking and 4 stars.
+input - I am looking for a guesthouse to stay at with free wifi please.
+input - I'm looking for a restaurant that serves Asian Oriental food located in the south. Can you help?
+input - Hi, I'm looking for information on the Alexander Bed and Breakfast please?
+input - Hi I am looking for a 4 star guesthouse. Can you help me?
+input - I would like to find information about the hotel Express by Holiday Inn in Cambridge.
+input - I need a place to stay, and I need it to provide free parking.
+input - I am looking for a 3 star hotel on the south side of town please.
+input - I'm looking for the University Arms Hotel.
+input - I am looking for an expensive restaurant in the centre of Cambridge.
+input - I am looking for a place to stay. The hotel should include free wifi and should be in the cheap price range
+input - I need to find a guesthouse with a 0 star rating.
+input - Could you tell me about the Golden Wok?
+input - Hi. Can you help me find a restaurant?
+input - Hello, I'm looking for a guesthouse or hotel in the moderate price range. I also need free wifi. What area do you think is best?
+input - I need a cheap restaurant please.
+input - Hi, can you help me find a place to stay? Something moderately priced with free wifi.
+input - I need assistance finding information for a hotel called Lovell Lodge.
+input - I would like a place to eat in the expensive price range.
+input - Can you give me information about Hobsons House, please?
+input - I need help finding a chinese restaurant located near the centre.
+input - I'm looking for a place to stay with free parking.
+input - Hello! I am looking for a place to stay. I would like to stay in the moderate price range with a rating of 2 stars, if possible.
+input - Hi I am looking for a hotel called finches bed and breakfast
+input - Hello, my uncle owns Tang Chinese, he wants to know if it shows up in your database?
+input - Can you find a place to eat that serves French food?
+input - Hi I am looking for a expensive restaurant that serves indian food
+input - I am looking for a guesthouse in the south of town.
+input - I'm looking for a restaurant called nandos city centre
+input - I'm looking for an expensive Indian restaurant.
+input - I will be visiting north Cambridge and need a hotel that has free parking.
+input - I want to find a restaurant called Meghna. Can you help?
+input - I heard about the De Luca Cucina and Bar, and I'd like to try it out. Could you help me find it?
+input - I'd like a restuarant in the north with expensive food.
+input - Can you help me find a place to stay? It'll need to have free parking.
+input - I'm looking for a restaurant, in the moderate price range, in the southern part of town.
+input - I'm looking for a restaurant that serves gastropub.
+input - I'm looking for a place to dine in the expensive price range which serves italian.
+input - I need to find a hotel in Cambridge called Finches bed and breakfast please.
+input - i need a place to stay in the centre of cambridge thats very expensive
+input - I need a 4 star hotel on the north side.
+input - Can you please recommend a hotel? I don't need free parking.
+input - I am looking for a place to stay in the moderate price range that includes free parking.
+input - I'd like to find a 4 star hotel with free wifi, please.
+input - I'd like a 4 star hotel in the west, please.
+input - Is there an expensive restaurant in the area that serves light bites?
+input - Hello, I'm looking for a place to eat on the East. I prefer a restaurant that serves British food
+input - I am looking for a hotel that is expensive and has free parking.
+input - I would like to have an authentic British meal, but I need to do it cheaply. Can you help me with that?
+input - Hello, I am looking for a place to stay that includes free wifi. I would also prefer it to be in a guesthouse
+input - I'm looking for a restaurant in the south that serves international food.
+input - Hi there, please find me a restaurant on the East side that serves russian food
+input - Hi there, I'd like to find a hotel to stay in tonight that has free wifi.
+input - Hi, I'm looking for a place to stay with free wifi in the east part of town.
+input - Yes I am looking for a hotel to stay at with free parking please
+input - I was wondering if you can tell me more about a particular hotel called the a and b guest house.
+input - I need a nice expensive restaurant located in the Cambridge centre.
+input - Do you have information on the Express by Holiday Inn Cambridge?
+input - Hi there. I have heard lots of family members rave over the Warkworth House hotel. Can you tell me anything about it?
+input - Can you help me locate an expensive restaurant offering Northern European cuisine?
+input - Is there a place on the east side of town with free parking?
+input - i am looking for the hamilton lodge in Cambridge
+input - I'm planning a trip to go to a particular restaurant, can you assist?
+input - Hi, I need a place to eat on the north side.
+input - I am looking for a place to stay. Ideally, it will be a guesthouse and have a 4 star rating.
+input - I need lodgings with free parking.
+input - Yes I am looking for an expensive Chinese restaurant.
+input - Would you be able to recommend an expensive restaurant that serves Panasian food?
+input - Can you give me any info on whether you have any 2-star hotel or guesthouses somewhere in town?
+input - I am looking for a restaurant in the centre that is moderately priced.
+input - I am looking for a hotel ti stay in the expensive range. It does not have to be free parking.
+input - I'm looking for an expensive hotel to stay in.
+input - Find me a caribbean restaurant in the centre, please?
+input - I want to eat at a moderately priced restaurant please
+input - What can you tell me about the Allenbell hotel?
+input - Are there any guesthouses where you can park for free?
+input - I am looking for a place to eat in the West, Thai food please.
+input - Can you still book hotels for me?
+input - I am looking for a guest house that i can stay in.Free parking is also an added advantage.
+input - Can you find me a three star place to stay?
+input - I would like to dine in an expensive Chinese restaurant tonight
+input - I'm looking for a hotel with free wifi and parking.
+input - Can you help me find a place to stay in the south that is cheap?
+input - I'm in the mood for a traditional American food restaurant tonight and looking to treat myself to some expensive fine dining. Can you help me find a perfect place?
+input - Hi, I am looking for a moderately priced restaurant in the centre of town.
+input - I am looking for a local,cheap place to eat.
+input - I need an expensive restaurant in the centre of town.
+input - i need a place to stay
+input - I'm going to be in Cambridge for 4 days and need a place to stay in the south with free wifi. I don't need parking.
+input - Hello, I'm looking for information on a hotel called Hobsons House.
+input - Hello, is lan hong house still in operation?
+input - I'm looking for a 4 star hotel with a moderate price.
+input - I need a place to stay on the west side of town, and I definitely need free wifi.
+input - I'm looking for a specific hotel. Can you help me?
+input - I'm looking for a cheap hotel that includes free wifi.
+input - I'm in the mood for some fusion food. Please find me an expensive restaurant that serves it
+input - I am looking for a place to eat that's expensive. Can you help me?
+input - I'm looking for an expensive hotel in the south to stay in.
+input - I am trying to find a guesthouse with free parking to stay in.
+input - I'm looking for a italian restaurant centre.
+input - I'd love to find an expensive German restaurant.
+input - I'm looking for a German restaurant in the centre.
+input - I would like to stay at a guesthouse in the north.
+input - Hello, I need some information about a certain restaurant.
+input - i want a guesthouse
+input - Is there a Chinese restaurant in the city centre?
+input - Hi there. I'm going on vacation and need a 3-star place to stay. Can you help?
+input - Do you have any information on the University Arms Hotel? I've heard it's a nice place.
+input - Hi there. I have heard lots of good things about a restaurant called Rajmahal. Can you tell me anything about it?
+input - I'm looking for information on a restaurant called pizza hut cherry hinton.
+input - I'm looking for a cheap place to stay with free wifi.
+input - Hi, I'd like information on a particular hotel called the Kirkwood House.
+input - I am looking for a place to stay with a 4 star rating and free wifi.
+input - I'm looking for a hotel that has free wifi please.
+input - I am looking for a place to dine in the centre with an expensive price range.
+input - Are there any moderately priced restaurants serving international food?
+input - I need a hotel in the south of the city, it is ok if the hotel doesn't has free parking.
+input - Yes, I am looking for a moderately priced guesthouse to stay in Cambridge?
+input - Can you please help me find a place to stay, somewhere like a hotel? I am looking for a rating of 4-stars and it should include free parking too. Thanks.
+input - I need to find a hotel in Cambridge that's moderately priced. I don't need to have free parking included for my stay.
+input - I'm looking for more information on arbury lodge guesthouse.
+input - I need a hotel in the south with free wifi.
+input - Yes, I need a place to stay that is expensive, and is a hotel please.
+input - I need a place to stay that has a 4 star rating.
+input - I'm looking for a guesthouse that includes free parking.
+input - I am looking for an expensive, centrally located restaurant.
+input - I'm looking for a hotel called the Arbury Lodge Guesthouse. Do you have a listing for this?
+input - I'm looking for a British restaurant, in the expensive price range.
+input - I'm looking for a cheap place to dine, preferably in the centre of town.
+input - I'm looking for a vietnamese restaurant in the west area.
+input - I am looking for a restaurant named kymmoy.
+input - Hi, I'd like to find out about the Limehouse hotel.
+input - I need a resturant that serves British food.
+input - Hi I'm looking to find a restaurant named Sitar Tandoori.
+input - I'm looking for a hotel with free parking in the north.
+input - I'd like to find a moderately priced guesthouse to stay at in cambridge.
+input - I am on a budget and looking for a cheap place to stay with free wifi.
+input - I am looking for information about a particular restaurant in Cambridge that people are talking about. It is named saint johns chop house.
+input - Can you help me find a hotel in the north.
+input - Could you find a moderate priced place to stay for me? I do need free WiFi.
+input - I am looking for a place to stay. The hotel should include free wifi and should be in the type of guesthouse
+input - Could you help me find a guesthouse on the west side?
+input - Hi, I'm visiting Cambridge and can't wait to try local restaurants. Have you heard anything about a place called golden wok?
+input - Hi. Can you help me find a restaurant?
+input - Can I get the address to the hospital in Cambridge?
+input - I'm looking for a certain restaurant, can you help?
+input - i want info on kirkwood house
+input - D you know of any restaurants nearby that serve French cuisine? I don't mind paying a little extra for quality food and service, any recommendations are welcome.
+input - I'm looking for information on a hotel called acorn guest house.
+input - I am looking for a hotel in Cambridge that has free parking and is in the expensive price range.
+input - Could you give me information about a restaurant called panahar?
+input - I'm looking for Crossover food in the centre.
+input - I need information on a hotel that includes free parking please.
+input - Hello, could you help me with finding a restaurant called The Lucky Star?
+input - Yes, hopefully you can help with some information on a particular hotel?
+input - I want to eat some african food in the centre. What do you have for me?
+input - I'm looking for a 0 star hotel that is expensive.
+input - I would like to know if you have any information on a place called Tang Chinese?
+input - Hi I'm looking to find a guest house with free Wi-Fi, any suggestions?
+input - Can you help me find an expensive restaurant in the center of town?
+input - I'm looking for a particular restaurant. It's called hotel du vin and bistro.
+input - i'm looking for el shaddai
+input - I was wondering if you could help me find a restaurant in Cambridge?
+input - Hi, I'm looking for an Italian restaurant near the centre.
+input - I'm looking for this place called rice house
+input - I am looking for a place to dine. The restaurant should be in the expensive price range and should serve british food.
+input - I'm looking for a mexican restaurant in the south.
+input - Hi! I am looking for a place to stay, could you help me find a hotel with 4 stars and it needs to have free wifi.
+input - Can you help me find a restaurant that serves greek food and is expensive?
+input - Hi, I am planning a trip and could use some help finding a restaurant.
+input - I'm looking for an afghan restaurant in the north.
+input - I'd like to find a place to dine in the west that serves modern american food.
+input - Hello, I am looking for an expensive restaurant to dine at in the center.
+input - Hello, I'm looking for a place to stay that offers free parking.
+input - Hi, Im looking to find a local hotel that has free parking and free wifi...
+input - Hi, yes, I'm trying to find a restaurant to go to.
+input - I want to eat some Greek food.
+input - Where are some restaurants that serve mediterranean dishes that are in the low to moderate price range?
+input - I'm in the mood for swedish food, but I want something in the centre of town.
+input - I'm looking for information on a hotel called kirkwood house.
+input - I'm looking for a local restaurant to dine in that cheap and serves indian food.
+input - I am looking for a place to dine. The restaurant should be in the cheap price range and should serve chinese food
+input - Hello. I'm trying to find a restaurant in the centre that serves Indian food.
+input - Looking for a restaurant thats expensive. Needs to be in the centre area.
+input - I'm looking for a specific restaurant. I'll give you the name when you're ready.
+input - I'm looking for a place to dine, can you help?
+input - Please find me a british restaurant in the expensive price range?
+input - Can you get me information on a restaurant called yippee noodle bar?
+input - I was looking for a hotel called worth house someone told me about.
+input - I'm looking for a modern European restaurant near the centre, could you hook me up?
+input - I am looking for an expensive restaurant in the south part of town.
+input - I'd love some help finding more information about the Michaelhouse Cafe.
+input - Hi, I'm looking for an indian restaurant.
+input - Hi, I'm looking for a restaurant called pizza hut cherry hinton, can you help me find it?
+input - I need somewhere to stay.
+input - I want to find a four star hotel that has free internet.
+input - I'm looking for a guesthouse to stay in on the east side. You know of any?
+input - I'm looking for a restaurant. I don't suppose you happen to have one serving australasian food?
+input - Would you happen to have information on the Lovell Lodge?
+input - I looking for some information on a restaurant called Gandhi.
+input - I want to try a local restraint, can you help?
+input - I want to stay at a guesthouse in the expensive price range.
+input - I need some help finding a place to eat.
+input - I'm looking for a restaurant in the centre serving Welsh food.
+input - Can you look up a hotel called Cityroomz?
+input - Yes, can you give me the information on the Huntingdon Marriott Hotel?
+input - Hello. I am needing some help finding a cheap room.
+input - I want to find an expensive restaurant that has North American food.
+input - I'm looking for a particualr hotel called cityroomz?
+input - I'm looking for an expensive place to eat located in centre of town. Can you help?
+input - I am looking for a cheap restaurant that serves scottish food.
+input - So I'm planning a trip to your lovely town and I need recommendations on an expensive place to eat on the West side.
+input - Can you please tell me about the Alpha-Milton Guest House?
+input - I need a hotel on the west side.
+input - Hello, I looking for a restaurant called Golden House
+input - Hi, I am organizing my trip and am looking for a cheap Mexican restaurant.
+input - Hello! I've been recommended a restaurant but don't know where it is. It's called Saint John's Chop House. Can you help me find it?
+input - I need the address of the Worth House hotel.
+input - I need help finding a hotel called Archway House. Can you help me?
+input - I"m looking for a guesthouse that includes free wifi.
+input - Hi, I am looking for an expensive restaurant in the east.
+input - I feel like having Italian for dinner. Are there any cheap restaurants with good Italian in town?
+input - I'm trying to plan a trip there. Can you find me a nice place to dine in the west area of town?
+input - I'm looking for a hotel with free parking.
+input - I am looking for a restaurant. The restaurant should serve world food and should be in the centre
+input - I'm looking for information on a hotel called worth house.
+input - I am looking for a place to stay. I need a 2 star hotel with free parking.
+input - Hi, Can you help me locate a restaurant named Travellers Rest?
+input - Can you give me more information about the Shiraz restaurant?
+input - Hi! Are there any expensive Greek restaurants in town?
+input - I'm looking for a moderately priced turkish restaurant.
+input - Hi, I am looking for information on Sitar Tandoori restaurant.
+input - I'm looking for a restaurant called michaelhouse cafe.
+input - Is there somewhere inexpensive to stay in town? I'll be driving in, so I'll need somewhere that I can park for free, as well.
+input - i need information about wagamama restaurant.
+input - I'm looking for a guesthouse to stay in in the south
+input - Can you help me get a room at the arbury lodge guesthouse?
+input - Hi, I'm looking for a hotel with free wifi that is moderately priced.
+input - I'm looking for a restaurant serving barbeque in the centre of town.
+input - I'm looking for a hotel called Avalon.
+input - I'm looking for an expensive place to dine in the centre.
+input - I need to find an Italian place to eat. Hopefully with moderate prices.
+input - Hi. I will be attending a conference in the eastern part of town and wondered if you could help me find an available room.
+input - I've got a hankering for some Spanish food - is there anywhere good in the centre of town?
+input - I am looking for an expensive place to dine at the centre.
+input - Can you help me find a place to stay please?
+input - Could you help me find a moderately priced place to stay?
+input - I'm looking for a restaurant called royal spice.
+input - I am looking for a restaurant that is moderately priced and served British food.
+input - I'm looking for a restaurant that services the americas in the centre.
+input - I am looking for hotel with 3 star and free parking in Cambridge.
+input - Where in the Cambridge area is the Autumn House hotel?
+input - I need a restaurant in the Centre moderate priced
+input - I am looking for a restaurant that is in the centre of town and serves light bites food.
+input - I would like to find a place to stay that has wifi, I'm not a fan of this new guesthouse trend, so a regular hotel please.
+input - Can you help me find jinling noodle bar please, where is it?
+input - I am planning your trip in Cambridge. looking for a place to dine. The restaurant should be in the cheap price range and should serve steakhouse food
+input - i am looking for a place to dine. The restaurant should be in the moderate price range and should serve korean food.
+input - find me a place to stay which has 0 star and preferably a guest house
+input - Can you tell me about the Cote restaurant?
+input - i'm looking for a hotel called home from home.
+input - I need information about the hotel Express by Holiday Inn Cambridge.
+input - I need a place to stay in the north. I use mturk quite a bit to get vacation money, so it would have to have free wifi.
+input - i'm looking for a place to stay, a guesthouse type, in a moderate price range please.
+input - I need to find a place to stay in the east part of town with free parking.
+input - I was wondering if you could point me in the direction of a local restaurant by the name of Wagamama.
+input - My friend was there on business last month and said I absolutely had to try a restaurant called The Nirala. Can you tell me about it?
+input - Hi! Do you know anything about a restaurant called clowns cafe?
+input - Hello, can you recommend a 0 star place to stay?
+input - I'm looking for some food in Cambridge today.
+input - I am looking for a restaurant called the cote.
+input - I'm looking to try new restaurants in the Cambridge area, specifically a place called J restaurant.
+input - Can you help me with finding a restaurant called backstreet bistro?
+input - I'm looking for the alpha-milton guest house.
+input - Hello. I need to find a place that serves halal food in the city.
+input - Hi there. I am looking to find a hotel room in town. Can you help?
+input - Hi, I'd like a hotel with a star of 4 on the east side of town.
+input - Find me a cheap indian place to dine at please.
+input - Good evening. Can you help me find a guesthouse to stay at for the weekend?
+input - I need a hotel on the north side.
+input - Can you let me know if there are any available european restaurants in the centre area?
+input - Can you help me find a place to stay? I would like to stay in a hotel that includes free wifi.
+input - Hi, I'm looking for a guesthouse hotel with free parking. Can you help me with this?
+input - I am looking for a hotel with a three star rating and a cheap price
+input - I need a information on restaurant. Is there any cheap Chinese restaurant?
+input - I would like to find a restaurant called Rice House. Do you know where it is?
+input - I want a restaurant in the town centre. Can you help me?
+input - I want a place to stay and it needs to be a guesthouse.
+input - I need to find a Hamilton Lodge in Cambridge.
+input - I'm looking for someplace to stay. I'd like something expensive, and I don't need parking.
+input - Is there a moderate restaurant in the centre of town?
+input - I'd like to find a place that I can get some Northern European food.
+input - I am looking for information on a hotel called warkworth house. Can you give me the location address and phone number please?
+input - Are there any Chinese restaurants on the north side of town?
+input - Hello, I'd like some information on a restaurant today.
+input - Hello. Can you help me find a hotel in the North of town?
+input - I'm going to be needing you for a restaurant recommendation.
+input - Hi, I am traveling to Cambridge and can't wait to try some local restaurants. Can you help me find a place to dine?
+input - Hello, I am looking to try an expensive Indian restaurant.
+input - Hi! Are there any restaurants in town that serve Scottish food?
+input - Hello, do you know of any Spanish restaurants in the Centre of town?
+input - Please find a cheap place to eat that serves light bites food.
+input - Hi, I'm looking for a specific restaurant in Cambridge. It's called The Copper Kettle. Could you give me any information on it?
+input - I am looking for a cheap place to stay with free wifi.
+input - Hi - I'm looking for an expensive restaurant on the east side of town. Can you help me?
+input - I'm looking for a chinese food restaurant.
+input - I want to go to a french food restaurant in the north. Can you help me find one?
+input - A friend recommended the City Centre North B&B. Could you help me find it?
+input - I am looking for some information. I need to find a cheap place to stay.
+input - I'd like to find a place to stay with a zero star rating that has free wifi.
+input - One moment while I look up the alpha-milton guest house for you.
+input - I'm looking for a gueshouse that includes free parking.
+input - Hello, I'm looking for information on the Alpha-Milton Guest House.
+input - While in Cambridge I need a hotel that has free parking and free wifi.
+input - I need an expensive place to stay that includes wifi.
+input - I need a restaurant. Something expensive and italian.
+input - Can you help me find a hotel called home from home?
+input - Hey there! Can you find me lodging, please? I'd like to stay at a guesthouse on the east end, if possible.
+input - Hello! I need a place to bed down for the night that offers free parking and wifi. Can you help me?
+input - Hi. I'm looking for information on a hotel called the Limehouse.
+input - Hello! I'm looking for a restaurant that serves modern european food? I'd also like it to be located in the centre if possible.
+input - I'm looking for info about 4-star accommodations, somewhere where they don't nickel-and-dime you for services like wifi.
+input - I'm looking for a place to eat that is cheap and in the centre.
+input - Hi, I'm looking for an expensive restaurant in north cambridge.
+input - Can you help me find a restaurant? I want somewhere expensive.
+input - I'm going to Cambridge and interested in trying some restaurants. Can you recommend one that serves traditional food?
